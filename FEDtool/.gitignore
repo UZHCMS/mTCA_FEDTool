@@ -1,0 +1,13 @@
+*.o
+bin/
+src/run
+src/clt
+src/fpgaconfig
+src/amc13test
+src/fedconfig
+src/feroltest
+src/rssiread
+logifle*
+*.txt
+*.*~
+.ycm_extra_conf.pyc
